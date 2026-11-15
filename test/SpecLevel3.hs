@@ -2,6 +2,7 @@ module SpecLevel3 where
 
 import Control.Applicative hiding (Const (..))
 import Level1
+import Parser
 import Level2 (BinOp (..), Expr (..))
 import Level3
 import SpecLevel1 (parses)

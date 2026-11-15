@@ -2,6 +2,7 @@ module SpecLevel1 where
 
 import Control.Applicative
 import Level1
+import Parser
 import Lexer
 import MyIO
 import Test.Prelude

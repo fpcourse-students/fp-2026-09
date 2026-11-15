@@ -5,6 +5,7 @@ module Level3 where
 
 import Control.Applicative hiding (Const (..))
 import Level1
+import Parser
 import Level2 (BinOp (..), Expr (..), parseConst, parseVar, inParens)
 import MetaUtils
 

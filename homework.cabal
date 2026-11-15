@@ -103,6 +103,7 @@ library
     Level2
     Level3
     Lexer
+    Parser
     MyIO
   build-depends:
     meta-utils

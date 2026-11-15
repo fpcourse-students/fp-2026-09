@@ -4,6 +4,7 @@ module Level2 where
 import Control.Applicative hiding (Const (..))
 import Data.Coerce
 import Level1
+import Parser
 import MetaUtils
 
 

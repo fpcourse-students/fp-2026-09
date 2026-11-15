@@ -5,6 +5,7 @@
 module Repl () where
 
 import Level1
+import Parser
 import Level2
 import Level3
 import Lexer

@@ -1,6 +1,7 @@
 module SpecLevel2 where
 
 import Level1
+import Parser
 import Level2
 import SpecLevel1 (parses)
 import Test.Prelude
